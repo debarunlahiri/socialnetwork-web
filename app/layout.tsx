@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Start — Your live home",
-  description: "A modern, customizable live-tile home screen.",
+  title: "Mosaic — People, in the moment",
+  description:
+    "A lively social network built around people, posts and communities.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
